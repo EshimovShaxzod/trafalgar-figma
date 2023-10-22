@@ -128,7 +128,7 @@ a{
     position: relative;
     margin-bottom: 30px;
 }
-.services_title::before{
+/* .services_title::before{
     position: absolute;
     top: 40px;
     left: 47%;
@@ -136,7 +136,7 @@ a{
     width: 60px;
     height: 2px;
     background-color: #0e2533;
-}
+} */
 .services_text{
     text-align: center;
     color: #9f9f9f;
